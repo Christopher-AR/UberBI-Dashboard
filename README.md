@@ -18,6 +18,7 @@ Tech Stack
 
 Data Visualization: Power BI Desktop
 
+
 Data Processing: Power Query Editor, SQL, DAX, Data Modeling 
 
 
