@@ -17,7 +17,9 @@ Geospatial Insights: Identification of high-traffic zones like Khandsa (Top Pick
 Tech Stack
 
 Data Visualization: Power BI Desktop
+
 Data Processing: Power Query Editor, SQL, DAX, Data Modeling 
+
 
 Insights Highlight
 
