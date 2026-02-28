@@ -1,4 +1,5 @@
 Uber Performance Dashboard
+
 This repository contains a comprehensive data visualization project analyzing Uber Auto service performance. The dashboard provides actionable insights into booking trends, revenue distribution, and operational efficiency across various vehicle types.
 
 Project Overview
@@ -26,4 +27,4 @@ Sales & Revenue Questions
 Operational Efficiency Questions
 Service Quality Questions
 
-Dashboard.preview()
+Dashboard.preview(https://github.com/Christopher-AR/UberBI-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
