@@ -33,8 +33,13 @@ Feature/Highlights
 Based on the metrics and visualizations shown, this dashboard is designed to answer several critical business and operational questions:
 
 Sales & Revenue Questions
+
+
 Operational Efficiency Questions
+
+
 Service Quality Questions
+
 
 
 Dashboard.preview(https://github.com/Christopher-AR/UberBI-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
