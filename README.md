@@ -40,6 +40,9 @@ Operational Efficiency Questions
 
 Service Quality Questions
 
+## 📜 Credits
+This project was inspired by and developed following a tutorial by TheDeveloperYT. It serves as a practical application of Power BI skills in a real-world API data scenario.
+
 
 
 Dashboard.preview(https://github.com/Christopher-AR/UberBI-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
